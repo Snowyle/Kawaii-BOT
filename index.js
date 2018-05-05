@@ -17,7 +17,7 @@ bot.on('ready', function () {
     console.log("Je suis connecté !")
   })
 
-  bot.login('NDM5NzgwNTA1NzIyOTQ1NTQ2.DccXjQ.qvw6PyNsufqN1z9XzlodGWBjyA8')
+  bot.login('')
 
 
 bot.on("message", message => {
